@@ -1,0 +1,7 @@
+#gitignore is use to store the private file into github repository 
+numpy
+streamlit
+python-dotenv
+google-generativeai
+pillow
+#pip install -r requirements.txt
